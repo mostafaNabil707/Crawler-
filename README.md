@@ -1,4 +1,5 @@
 # Crawler-
 
-libcurl: HTTP downloading
-htmlparser (rangerlee/htmlparser): HTML parsing
+# libcurl: HTTP downloading
+
+# (rangerlee/htmlparser): HTML parsing
